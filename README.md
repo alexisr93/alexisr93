@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I’m Alexis
 
-<!--
-**alexisr93/alexisr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer** | Full-Stack & Backend | AI-Driven Apps & Data-Driven Systems  
 
-Here are some ideas to get you started:
+Developing full-stack apps (React + Django/Postgres) and scalable systems, while exploring the future of AI/ML and LLMs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Work With  
+- **Languages**: Python 🐍 | TypeScript ⚡ | SQL | Java | C++  
+- **Frameworks**: React ⚛️ | Next.js | Django | FastAPI | Node.js | PyTorch 🔥  
+- **Cloud & DevOps**: AWS ☁️ | Docker 🐳 | Postgres | CI/CD  
+- **Other**: Machine Learning 🤖 | Data-Driven Systems 📊 | UI/UX Collaboration 🎨 
+
+## 🌟 What I’m Up To  
+- Building AI-first projects that blend **full-stack engineering** with **generative AI**  
+- Experimenting with **LLMs** in real-world apps  
+- Always open to collaborating
